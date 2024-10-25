@@ -1,0 +1,10 @@
+.ipynb_checkpoints
+__pycache__
+train_cmnist
+saved_info
+MNIST
+BMGAN_Cifar_downsample
+BMGAN_ColoredMNIST
+MNIST_ASBM_IPMF
+data
+wandb
