@@ -10,3 +10,4 @@ MNIST_ASBM_IPMF
 data
 wandb
 MNIST_ASBM_IPMF.ipynb
+datasets_prep
